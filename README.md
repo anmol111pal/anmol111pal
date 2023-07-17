@@ -29,4 +29,8 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=anmol111pal&theme=nord&date_format=M%20j%5B%2C%20Y%5D" alt="readme streak stats" />
 </div>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anmol111pal&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />  
+<hr>
+
+<h1 align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anmol111pal&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> </h1>
+
+<hr>

@@ -1,4 +1,4 @@
-<img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=👋+Hi,+I’m Anmol!+I'm+a+fullstack+developer+proficient+in+JavaScript,+Express,+MongoDB,+and+React." />  
+<img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=👋+Hi,+I+am+Anmol!"/>  
 
 - 🌱 I’m currently a Computer Science student at Graphic Era Deemed to be University, Dehradun.  
 

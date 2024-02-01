@@ -34,3 +34,8 @@
 <h1 align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anmol111pal&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> </h1>
 
 <hr>
+
+<h1 align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/anmol111pal/count.svg" />
+</h1>
